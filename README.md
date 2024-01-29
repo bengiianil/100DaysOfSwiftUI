@@ -1,2 +1,2 @@
 # 100DaysOfSwiftUI
-Created this repo to follow along on my own 100-day SwiftUI learning process challenge.
+Created this repo to follow along on my own 100 days SwiftUI learning process challenge.
