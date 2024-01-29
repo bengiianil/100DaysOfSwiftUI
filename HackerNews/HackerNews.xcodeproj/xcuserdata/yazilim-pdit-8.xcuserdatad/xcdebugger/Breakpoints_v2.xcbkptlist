@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "95145E44-A63A-49CC-AF9D-3F56510CA552"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0669F53F-AA37-41B4-9744-24C19D7D9D69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackerNews/Views/WebView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "updateUIView(_:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0669F53F-AA37-41B4-9744-24C19D7D9D69 - bd156ea8ce5d1526"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HackerNews.WebView.updateUIView(_: __C.WKWebView, context: SwiftUI.UIViewRepresentableContext&lt;HackerNews.WebView&gt;) -&gt; ()"
+                  moduleName = "HackerNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yazilim-pdit-8/Desktop/Swift/HackerNews/HackerNews/Views/WebView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "0669F53F-AA37-41B4-9744-24C19D7D9D69 - bd156ea8ce5d1526"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HackerNews.WebView.updateUIView(_: __C.WKWebView, context: SwiftUI.UIViewRepresentableContext&lt;HackerNews.WebView&gt;) -&gt; ()"
+                  moduleName = "HackerNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yazilim-pdit-8/Desktop/Swift/HackerNews/HackerNews/Views/WebView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "359">
+               </Location>
+               <Location
+                  uuid = "0669F53F-AA37-41B4-9744-24C19D7D9D69 - bd156ea8ce5d1526"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HackerNews.WebView.updateUIView(_: __C.WKWebView, context: SwiftUI.UIViewRepresentableContext&lt;HackerNews.WebView&gt;) -&gt; ()"
+                  moduleName = "HackerNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yazilim-pdit-8/Desktop/Swift/HackerNews/HackerNews/Views/WebView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFBD1900-F334-4EDA-8D2A-FEFD5E4AF1D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackerNews/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
